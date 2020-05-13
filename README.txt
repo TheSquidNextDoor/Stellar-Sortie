@@ -45,12 +45,27 @@ Section 3: CHANGELOG!
   Added boss type enemy called "The Juggernaut", the first multi-entity enemy in the game. (The Rift-Class Stealth ship is the    
   first multi-entity ship in the game.)
   Added HUD marker for The Juggernaut.
-  Increased acceleration of the Torpedo Boat and the MAC Battleship. (The latter is still hard-countered by The Juggernaut 
+  Increased acceleration of the Torpedo Boat and the MAC Battleship. (The latter is still soft-countered by The Juggernaut 
   though.)
   Fixed incorrect hit sfx playing.
   Nerfed MK II Pirate Interceptor damage.
+  Added red trail for MK II Interceptor projectile.
   Added spawn conditions for The Juggernaut.
   I still need to fix Siphon mission type.
   Need to add boat enemies for Sol III's mission.
   Need to add mission hazards.
   Need to add actual tutorial(?).
+  
+  V1.2
+  
+  Added mission select screen for more customisation! (Note: Only Survival, Elimination and Siphon work as of now.)
+  Changed background to be more realistic. Don't worry, the stars still have colours!
+  Fixed Siphon mission type.
+  Don't touch the wires.
+  Removed water mission for now. (Will return later!)
+  Added new particle effect for armour piercing munitions.
+  Piercing shots no longer create an explosion for every frame they're inside an enemy.
+  Fixed leaky fuel line with duct tape. Will need a new pipe before the fix breaks.
+  Piercing shots now make a "hull breach" particle when they first hit an enenemy but still cause constant dmg for every frame
+  they're in contact with an enemy.
+  Removed preset missions for each planet.
