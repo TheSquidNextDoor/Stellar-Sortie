@@ -13,8 +13,23 @@ Section 1: Introduction
   STELLAR SORTIE! (But like imagine it in large ASCII text.)
 
 
+Section 2: Quickstart Guide
+  
+  This section is a guide to actually start a mission.
+  
+  Step 1. Open "Stellar Sortie V(Version number).exe"
+  Step 2. Wait for the game to load. (It's loaded when the application makes noise.)
+  Step 3. Click/tap/admire the title screen.
+  Step 4. Click the blue arrows at the top-left of the screen to select the spacecraft you want to pilot.
+  Step 5. Click the pink button at the bottom-right of the screen that reads "Mission Select".
+  Step 6. Optional. Inspect the mission select screen.
+  Step 7. Click one of the buttons at the centre of the screen that have text on them.
+  (Note: Only Survival and Elimination work as of V1.2.)
+  Step 8. Select the planet you want to deploy to with the blue arrows.
+  Step 9. Click the blue button at the bottom of the screen that reads "Select planet".
+  Step 10. Profit.
 
-Section 2: Controls
+Section 3: Controls
 
   Subsection 1: Keboard + Mouse Ctrl. Scheme
     
@@ -38,7 +53,7 @@ Section 2: Controls
 
 
 
-Section 3: CHANGELOG!
+Section 4: CHANGELOG!
 
   V1.1:
 
@@ -69,3 +84,7 @@ Section 3: CHANGELOG!
   Piercing shots now make a "hull breach" particle when they first hit an enenemy but still cause constant dmg for every frame
   they're in contact with an enemy.
   Removed preset missions for each planet.
+
+  V1.3
+  
+  Update not released.
