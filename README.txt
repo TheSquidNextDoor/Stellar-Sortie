@@ -13,7 +13,9 @@ Section 1: Introduction
 
   STELLAR SORTIE! (But like imagine it in large ASCII text.)
 
-
+  Also, there's a discord server for the game.
+  https://discord.gg/fKgMkDq
+  Feel free to join!
 
 
 Section 2: Quickstart Guide
