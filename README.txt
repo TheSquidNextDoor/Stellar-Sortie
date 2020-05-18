@@ -7,10 +7,13 @@ Section 1: Introduction
   I ripped the music and sounds from Star Command, the game that inspired this one.
   You can play Star Command @ https://scratch.mit.edu/projects/54013618/
   Please note that Star Command is 5 years old now.
+  All artwork is owned and drawn by me.
 
   Please enjoy...
 
   STELLAR SORTIE! (But like imagine it in large ASCII text.)
+
+
 
 
 Section 2: Quickstart Guide
@@ -28,6 +31,9 @@ Section 2: Quickstart Guide
   Step 8. Select the planet you want to deploy to with the blue arrows.
   Step 9. Click the blue button at the bottom of the screen that reads "Select planet".
   Step 10. Profit.
+
+
+
 
 Section 3: Controls
 
