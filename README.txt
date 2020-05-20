@@ -43,6 +43,9 @@ Section 3: Controls
     
    {W}, {A}, {S}, {D} or the Arrow Keys are used to move your spaceship relative to its direction.
    You can press {E} to toggle Automatic Slowdown. If you turn it off you can achieve your maximum speed.
+   A word of warning however, turning off Auto. Slowdown makes your ship behave as if it was actually in space.
+   There is no delay with toggling it however. Auto. Slowdown also allows you to keep moving when you let go of
+   a movement key. Keep this in mind!
    To shot your ship's weaponry, press {Q}. You need to do this in order to not die*. (* If you die, you achieve a state of 
    failure.
    
