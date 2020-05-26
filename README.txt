@@ -98,4 +98,22 @@ Section 4: CHANGELOG!
 
   V1.3
   
-  Update not released.
+  Added "Extreme Heat" Hazard.
+  Extreme Heat makes you have to deal with your ship's heat. (Only for that mission hazard though.)
+  Mission select now comes before planet select.
+  Fixed background object layering issues.
+  Added Escort mission type.
+  Siphon isn't actually fixed.
+  Fixed mugshot positioning.
+  Juggernaut no longer moves without its thruster.
+  Juggernaut thruster HP massively lowered.
+  Added Point Defence weapons to Juggernaut.
+  Added new HUD effect for overheating.
+  REX still doesn't want you touching the wires.
+  Added 100% more eldritch horrors.
+  Improved usability.
+  And probably some more stuff I forgot.
+  
+  V1.4
+  
+  Update yet to be released.
