@@ -47,7 +47,7 @@ Section 3: Controls
    There is no delay with toggling it however. Auto. Slowdown also allows you to keep moving when you let go of
    a movement key. Keep this in mind!
    To shot your ship's weaponry, press {Q}. You need to do this in order to not die*. (* If you die, you achieve a state of 
-   failure.
+   failure.)
    
    Subsection 2: Keyboard Ctrl. Scheme
    
