@@ -114,6 +114,12 @@ Section 4: CHANGELOG!
   Improved usability.
   And probably some more stuff I forgot.
   
+  V1.31
+  
+  Added mission boundary line to visually show where the mission boundaries are.
+  Added arrow to direct you back in-bounds when you go OOB. (Out of bounds.)
+  
   V1.4
   
   Update yet to be released.
+  (I'm working on it!!)
