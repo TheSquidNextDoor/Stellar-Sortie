@@ -121,5 +121,24 @@ Section 4: CHANGELOG!
   
   V1.4
   
-  Update yet to be released.
-  (I'm working on it!!)
+  Added 2nd boss enemy, the Marauder MK II.
+  Added visual alerts to HUD when bosses spawn and difficulty increases.
+  Difficulty increases every 2 minutes after 5 minutes in survival.
+  Added enemy dialouge to denote their current state.
+  Enemies can be in 5 states: Idle, Alerted, In combat, Getting damaged and Being Dead. (These only affect the dialouge from them.)
+  Added cracks on the player's HUD for when they take damage.
+  Massively cleaned up the HUD.
+  MK II Interceptor only spawns when the player plays survival for >5 minutes.
+  Enemies now have increased health past a certain difficulty level.
+  Buffed Combat Mech.
+  Did you touch the wires? No? Good.
+  Fixed some layering issues for background objects.
+  Added new background objects.
+  Uploaded the original project file. (Requires Scratch 2.0 or later to run.)
+  And some more stuff I forgot about. Have fun.
+  Probably fixed some bugs.
+  
+  V1.5
+  
+  In the works.
+  I'm the only person developing this game.
