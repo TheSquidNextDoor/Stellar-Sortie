@@ -61,10 +61,32 @@ Section 3: Controls
    weaponry, you click/tap the button on your Heads Up Display (HUD) labled "FIRE". To disable auto-slowdown, press the button
    on your HUD labeled "Space Drag".
 
+Section 4: Squid's Sub-par Survival Guide!
+  
+  Subsection 4a: Survival Guide
 
-
-
-Section 4: CHANGELOG!
+    1. Know your enemy! Enemies that shoot you will orbit you when they go to attack.
+    2. Learn to lead your shots! (Aim where the target is going to be, not where they are. There are no hitscan weapons here.)
+    3. Observe your surroundings! A non-observant pilot is useless in the heat of battle.
+    4. If you encounter the Marauder MK II or the Juggernaut, avoid them at all costs if you aren't good enough to destroy them. 
+    5. Learn to orbit your target when attacking them! You can turn while moving sideways.
+    
+    Now go out there and junk some pirates!
+    
+  Subsection 4b: General tips 'n' tricks.
+    In no particular order.
+      
+      1. The green circle in the centre of your screen is how far you can see.
+      2. The red dots on your screen are a reading of where your enemies are relative to you.
+      3. You can't shoot offscreen enemies due to a thing called *arbitrary gun range*.
+      4. The Marauder MK II is powerful and the Juggernaut is even more so. Avoid them until you can reliably take them on
+         and survive.
+      5. Don't touch the damaged wires.
+      6. Everything that shoots in this game shoots a projectile. There's no hitscan weaponry. Lead your shots.
+      7. Bigger isn't always better! The MK II Interceptor shouldn't be overlooked because of its size!
+      8. To be cont.
+      
+Section 5: CHANGELOG!
 
   V1.1:
 
