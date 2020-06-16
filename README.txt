@@ -83,8 +83,8 @@ Section 4: Squid's Sub-par Survival Guide!
          and survive.
       5. Don't touch the damaged wires.
       6. Everything that shoots in this game shoots a projectile. There's no hitscan weaponry. Lead your shots.
-      7. Bigger isn't always better! The MK II Interceptor shouldn't be overlooked because of its size!
-      8. To be cont.
+      7. Bigger isn't always better! No ship shouldn't be overlooked because of its size!
+      8. The ships are ordered in terms of size.
       
 Section 5: CHANGELOG!
 
@@ -164,3 +164,6 @@ Section 5: CHANGELOG!
   
   In the works.
   I'm the only person developing this game.
+  
+  Changes so far:
+  Enemy interceptors use hit and run tactics now.
