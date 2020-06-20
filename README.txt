@@ -174,4 +174,5 @@ Section 5: CHANGELOG!
   Removed PD turret holes from Railgun Corvette (Formally the MAC Battleship)
   Added particle effect for when the player's shields are depleted
   Changed ship and planet selection buttons to be a lot more obvious
-  If you're wondering, C class ships are classic designs and R class ships are Rift class ships.
+  If you're wondering, the 'C' in the C class interceptor means Classic because the Prototype Corvette is the first non-placeholder ship made for the game. (There's some trivia for you.)
+  Also, my personal preference is the Protoype Corvette.
