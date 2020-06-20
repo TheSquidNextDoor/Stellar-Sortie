@@ -85,8 +85,39 @@ Section 4: Squid's Sub-par Survival Guide!
       6. Everything that shoots in this game shoots a projectile. There's no hitscan weaponry. Lead your shots.
       7. Bigger isn't always better! No ship shouldn't be overlooked because of its size!
       8. The ships are ordered in terms of size.
+
+Section 5: Ship Descriptions
+  
+  Fighters:
+    
+    Prototype: The original and the worst. Designed for mass production and thus is Sol Squadron's main interceptor in the early days of the conflict.
+    Its armour is effectively paper and its weapons shoot the plasma equivelent of peas.
+    
+    MK I: A step up from the Prototype. This one's a bit more expensive but is far more cost effective. Used in the late-early conflict period.
+    Its armour is effectively sheet metal and its weapons are still peashooters. But there are 4 now instead of 2.
+    
+    MK II: Now we're getting somewhere! This model isn't cheap due to its shielding but said shielding has saved the lives of many pilots, maybe even yours.
+    Its armor is a step down from the MK I due to having to fit in a shielding setup. Its weapons are the same. The choice for the serious pilot.
+    
+    Interceptors:
+    
+      Class C:
+    
+      Prototype: THE origonal Sol Squadron designed spacecraft. Only a select few pilots have actually piloted one due to most of them being destroyed in combat. Mostly because the pilots were inexperienced.
+      Its armour can take a beating and its dual cannons fire balistic shells in the older models. Almost every one of these have been retrofitted to fire plasma projectiles instead.
+    
+      MK I: The prototype but tougher. Designed for longer engagements where durability is key.
+      Armed with the same weaponry as the prototype. Better thrusters make up for the increased weight in armour, making this a direct upgrade of the Prototype.
+    
+      MK II: The choice of the legendary pilot REX. Designed by REX for maximum durability and damage. This is a production model, despite being designed by the best pilot of Sol Squadtion.
+      It's armed with dual Rotary Autocannons, spewing out death every 0.15 seconds. The armour has been reduced in favour of a Shielding module.
       
-Section 5: CHANGELOG!
+      Class R:
+      
+      The Rift Class Interceptor is an experimental design made to withstand 'The Rift', a border plane of existence into a parallel existence. Space in the rift is distorted. The Rift Class (refered to most as the "Phase Sneaker".) utilises this distortion to move faster.
+  
+
+Section 6: CHANGELOG! (The place where I list the changes I made to the game.)
 
   V1.1:
 
