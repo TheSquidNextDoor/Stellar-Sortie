@@ -167,3 +167,11 @@ Section 5: CHANGELOG!
   
   Changes so far:
   Enemy interceptors use hit and run tactics now.
+  Added the MK I Corvette: The same as the Prototype but more armour.
+  Added the MK II Corvette: Same as the Protoype but with shielding and Rotary Autocannon armaments.
+  Revamped ship selection interface
+  Relabled every playable ship
+  Removed PD turret holes from Railgun Corvette (Formally the MAC Battleship)
+  Added particle effect for when the player's shields are depleted
+  Changed ship and planet selection buttons to be a lot more obvious
+  If you're wondering, C class ships are classic designs and R class ships are Rift class ships.
