@@ -175,4 +175,7 @@ Section 5: CHANGELOG! (The place where I list the changes I made to the game.)
   Added particle effect for when the player's shields are depleted
   Changed ship and planet selection buttons to be a lot more obvious
   If you're wondering, the 'C' in the C class interceptor means Classic because the Prototype Corvette is the first non-placeholder ship made for the game. (There's some trivia for you.)
-  Also, my personal preference is the Protoype Corvette.
+  Also, my personal preference is the Protoype Corvette
+  You can now go back to ship selection and not be greeted with a visual mess
+  Changed position of start mission button
+  
