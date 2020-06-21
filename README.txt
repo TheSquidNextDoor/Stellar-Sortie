@@ -163,10 +163,6 @@ Section 5: CHANGELOG! (The place where I list the changes I made to the game.)
   
   V1.5
   
-  In the works.
-  I'm the only person developing this game.
-  
-  Changes so far:
   Enemy interceptors use hit and run tactics now.
   Added the MK I Corvette: The same as the Prototype but more armour.
   Added the MK II Corvette: Same as the Protoype but with shielding and Rotary Autocannon armaments.
