@@ -1,6 +1,7 @@
 Section 1: Introduction
 
-  Stellar-Sortie
+  Welcome! Check back on the github (https://github.com/TheSquidNextDoor/Stellar-Sortie) for updates! (Usually every week.)
+  
   Too big to upload to scratch.mit.edu :P
 
   There are still bugs in the game.
