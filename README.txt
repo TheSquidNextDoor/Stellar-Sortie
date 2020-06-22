@@ -164,8 +164,8 @@ Section 5: CHANGELOG! (The place where I list the changes I made to the game.)
   V1.5
   
   Enemy interceptors use hit and run tactics now.
-  Added the MK I Corvette: The same as the Prototype but more armour.
-  Added the MK II Corvette: Same as the Protoype but with shielding and Rotary Autocannon armaments.
+  Added the MK I Class C Interceptor: The same as the Prototype but more armour.
+  Added the MK II Class C Interceptor: Same as the Protoype but with shielding and Rotary Autocannon armaments.
   Revamped ship selection interface
   Relabled every playable ship
   Removed PD turret holes from Railgun Corvette (Formally the MAC Battleship)
@@ -177,3 +177,8 @@ Section 5: CHANGELOG! (The place where I list the changes I made to the game.)
   Changed position of start mission button
   Kamakazi Drones no longer heal you (I got some math wrong.)
   
+  V1.6
+  
+  In the works!
+  
+  Fixed MK I C Class Interceptor not being able to shoot.
