@@ -175,4 +175,5 @@ Section 5: CHANGELOG! (The place where I list the changes I made to the game.)
   Also, my personal preference is the Protoype Corvette
   You can now go back to ship selection and not be greeted with a visual mess
   Changed position of start mission button
+  Kamakazi Drones no longer heal you (I got some math wrong.)
   
