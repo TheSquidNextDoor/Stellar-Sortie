@@ -182,3 +182,17 @@ Section 5: CHANGELOG! (The place where I list the changes I made to the game.)
   In the works!
   
   Fixed MK I C Class Interceptor not being able to shoot.
+  Title Screen has been updated to include the new spacecraft that were added before it.
+  Title Screen has been updated to show Neptune instead of Saturn.
+  Enemies move faster when Idle.
+  Enemies now aggro defence objectives. (Siphon & Escort Target.)
+  Enemies now use thier alternative attack AI with siphon mission type.
+  Siphon sprite changed and added 5th damage level.
+  Fixed Pirated Hauler size.
+  Added punctuation to changelog.
+  Fixed Class C Interceptor MK I's rear section.
+  Increased Siphon's max HP by 250.
+  (Hopefully) fixed enemies drifting when approaching the player.
+  I still don't really like the MK I C Class Interceptor.
+  Enemies now attack the Siphon and Escort Target.
+  
