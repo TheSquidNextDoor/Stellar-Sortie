@@ -195,4 +195,7 @@ Section 5: CHANGELOG! (The place where I list the changes I made to the game.)
   (Hopefully) fixed enemies drifting when approaching the player.
   I still don't really like the MK I C Class Interceptor.
   Enemies now attack the Siphon and Escort Target.
+  Fixed sprites of MK I & II C Class Interceptors.
+  Started work on a bomber ship.
+  Added moons to Earth and Mars.
   
