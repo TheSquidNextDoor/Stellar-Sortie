@@ -204,4 +204,4 @@ Section 5: CHANGELOG! (The place where I list the changes I made to the game.)
   Neptune nown appears when playing at the Alien Forge-World.
   Added alien drone enemies for Alien Forge-World.
   (The assets for the alien drones & planet have been in the game since the release build btw.)
-  
+  Please note: The aliens are NO pushovers. They're tough AND aggressive. They also lay down lots of fire and have carrier support.
