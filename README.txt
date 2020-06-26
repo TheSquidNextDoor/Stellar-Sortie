@@ -198,4 +198,8 @@ Section 5: CHANGELOG! (The place where I list the changes I made to the game.)
   Fixed sprites of MK I & II C Class Interceptors.
   Started work on a bomber ship.
   Added moons to Earth and Mars.
+  Overhauled visual design of system map. Planet sprites are used now.
+  Alien Forge-World now available as a locale.
+  Added alien drone enemies for Alien Forge-World.
+  (The assets for the alien drones & planet have been in the game since the release build btw.)
   
