@@ -179,8 +179,6 @@ Section 5: CHANGELOG! (The place where I list the changes I made to the game.)
   
   V1.6
   
-  In the works!
-  
   Fixed MK I C Class Interceptor not being able to shoot.
   Title Screen has been updated to include the new spacecraft that were added before it.
   Title Screen has been updated to show Neptune instead of Saturn.
@@ -205,3 +203,9 @@ Section 5: CHANGELOG! (The place where I list the changes I made to the game.)
   Added alien drone enemies for Alien Forge-World.
   (The assets for the alien drones & planet have been in the game since the release build btw.)
   Please note: The aliens are NO pushovers. They're tough AND aggressive. They also lay down lots of fire and have carrier support.
+  
+  V1.7
+  
+  In the works!
+  
+  
