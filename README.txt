@@ -199,7 +199,9 @@ Section 5: CHANGELOG! (The place where I list the changes I made to the game.)
   Started work on a bomber ship.
   Added moons to Earth and Mars.
   Overhauled visual design of system map. Planet sprites are used now.
+  The Alien Forge-World now appears when playing at neptune.
   Alien Forge-World now available as a locale.
+  Neptune nown appears when playing at the Alien Forge-World.
   Added alien drone enemies for Alien Forge-World.
   (The assets for the alien drones & planet have been in the game since the release build btw.)
   
