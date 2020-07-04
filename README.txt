@@ -211,4 +211,13 @@ Section 5: CHANGELOG! (The place where I list the changes I made to the game.)
   Added boss enemy for the Alien Forge-world.
   Added boss variant of the Alien Carrier for Neptune.
   Rebalanced spawn priority for Alien Forge-World enemies.
-  High-tier Alien ships now spawn at higher difficulties.
+  High-tier Alien ships now spawn more often at higher difficulties.
+  Finally implemented the Riftbound Adversary (RbA). (Now with a new look! The old sprite was the R class interceptor but purple-ish.)
+  RbA will show up on the Alien Forge-World and Neptune. (@ high difficulties.)
+  Changed Earth sprite to be less green.
+  Added armour system. (A universal health measurement that can be restored via pickups.)
+  Buffed Enemy C Class Interceptor's damage.
+  Added armour repair pickups.
+  Realised the Railgun Corvette is pretty tanky.
+  
+  
