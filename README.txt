@@ -219,5 +219,5 @@ Section 5: CHANGELOG! (The place where I list the changes I made to the game.)
   Buffed Enemy C Class Interceptor's damage.
   Added armour repair pickups.
   Realised the Railgun Corvette is pretty tanky.
-  
-  
+  Removed motivation to work on the game.
+  Game is almost complete.
