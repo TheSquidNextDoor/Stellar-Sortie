@@ -217,10 +217,13 @@ Section 5: CHANGELOG! (The place where I list the changes I made to the game.)
   RbA will show up on the Alien Forge-World and Neptune. (@ high difficulties.)
   Changed Earth sprite to be less green.
   Added armour system. (A universal health measurement that can be restored via pickups.)
-  Enemies now have a 25% chance to drop armour pickups that restore 10% armour when picked up on death.
+  Enemies now have a 15% chance to drop armour pickups that restore 10% armour when picked up on death.
   Buffed Enemy C Class Interceptor's damage.
   Added armour repair pickups.
   Realised the Railgun Corvette is pretty tanky.
   Dev says the game is almost complete.
   Added more Evangelion references.
   Added shield cell pickup that restores 10% of shielding when picked up and increase shield max hp by 1% of your total when shields are full.)
+  Buffed Type C Interceptor MK II's damage.
+  A very angry person shot a hole on the surface of mars.
+  Removed passive shield regeneration. It now only regenerates when depleted.
