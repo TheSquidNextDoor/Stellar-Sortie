@@ -226,7 +226,9 @@ Section 5: CHANGELOG! (The place where I list the changes I made to the game.)
   A very angry person shot a hole on the surface of mars.
   Removed passive shield regeneration. It now only regenerates when depleted.
   
-  V1.8
+  V1.71
   Reduced music volume to 50%.
   Added warning screen to remind you to read this README.
   Added new promotional image.
+  Fixed OOB arrow staying after restart.
+  You can now click on planets to select them.
