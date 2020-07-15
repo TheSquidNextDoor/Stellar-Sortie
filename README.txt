@@ -225,3 +225,8 @@ Section 5: CHANGELOG! (The place where I list the changes I made to the game.)
   Buffed Type C Interceptor MK II's damage.
   A very angry person shot a hole on the surface of mars.
   Removed passive shield regeneration. It now only regenerates when depleted.
+  
+  V1.8
+  Reduced music volume to 50%.
+  Added warning screen to remind you to read this README.
+  Added new promotional image.
