@@ -207,8 +207,6 @@ Section 5: CHANGELOG! (The place where I list the changes I made to the game.)
   
   V1.7
   
-  In the works!
-  
   Added boss enemy for the Alien Forge-world.
   Added boss variant of the Alien Carrier for Neptune.
   Rebalanced spawn priority for Alien Forge-World enemies.
