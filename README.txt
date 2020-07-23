@@ -19,27 +19,7 @@ Section 1: Introduction
   https://discord.gg/fKgMkDq
   Feel free to join!
 
-
-Section 2: Quickstart Guide
-  
-  This section is a guide to actually start a mission.
-  
-  Step 1. Open "Stellar Sortie V(Version number).exe"
-  Step 2. Wait for the game to load. (It's loaded when the application makes noise.)
-  Step 3. Click/tap/admire the title screen.
-  Step 4. Click the blue arrows at the top-left of the screen to select the spacecraft you want to pilot.
-  Step 5. Click the pink button at the bottom-right of the screen that reads "Mission Select".
-  Step 6. Optional. Inspect the mission select screen.
-  Step 7. Click one of the buttons at the centre of the screen that have text on them.
-  (Note: Only Survival and Elimination work as of V1.2.)
-  Step 8. Select the planet you want to deploy to with the blue arrows.
-  Step 9. Click the blue button at the bottom of the screen that reads "Select planet".
-  Step 10. Profit.
-
-
-
-
-Section 3: Controls
+Section 2: Controls
 
   Subsection 1: Keboard + Mouse Ctrl. Scheme
     
@@ -63,9 +43,9 @@ Section 3: Controls
    weaponry, you click/tap the button on your Heads Up Display (HUD) labled "FIRE". To disable auto-slowdown, press the button
    on your HUD labeled "Space Drag".
 
-Section 4: Squid's Sub-par Survival Guide!
+Section 3: Squid's Sub-par Survival Guide!
   
-  Subsection 4a: Survival Guide
+  Subsection 3a: Survival Guide
 
     1. Know your enemy! Enemies that shoot you will orbit you when they go to attack.
     2. Learn to lead your shots! (Aim where the target is going to be, not where they are. There are no hitscan weapons here.)
@@ -75,7 +55,7 @@ Section 4: Squid's Sub-par Survival Guide!
     
     Now go out there and junk some pirates!
     
-  Subsection 4b: General tips 'n' tricks.
+  Subsection 3b: General tips 'n' tricks.
     In no particular order.
       
       1. The green circle in the centre of your screen is how far you can see.
@@ -88,7 +68,7 @@ Section 4: Squid's Sub-par Survival Guide!
       7. Bigger isn't always better! No ship shouldn't be overlooked because of its size!
       8. The ships are ordered in terms of size.
 
-Section 5: CHANGELOG! (The place where I list the changes I made to the game.)
+Section 4: CHANGELOG! (The place where I list the changes I made to the game.)
 
   V1.1:
 
@@ -232,3 +212,9 @@ Section 5: CHANGELOG! (The place where I list the changes I made to the game.)
   Added new promotional image.
   Fixed OOB arrow staying after restart.
   You can now click on planets to select them.
+
+  V1.8
+  Fixed readme screen.
+  Removed button for the gamemode that doesn't exist.
+  Added several reminders to read the readme.
+  Removed the outdated quickstart guide.
