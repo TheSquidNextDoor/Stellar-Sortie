@@ -222,3 +222,23 @@ Section 4: CHANGELOG! (The place where I list the changes I made to the game.)
   Removed button for the gamemode that doesn't exist.
   Added several reminders to read the readme.
   Removed the outdated quickstart guide.
+  New mechanic: Score system!
+    Kill things to earn score. Kill things fast to earn more score.
+    Complete your mission for a score multiplier!
+    Score is tracked up the top of your HUD.
+      Time bonus is calculated differently for endurance mission types. (Survival, Escort and Siphon. Survival gib more bonus the longer you, well... survive. Sihpon
+      and Escord gib bonus on how long you take to escort or finish siphoning plus some additional time because it's nigh impossible to pull of a perfect
+      escort/sihpon. Assassination has larger time windows because bosses are very durable.) All non-endurance missions have their time bonus scaled for difficulty.
+      
+      Final score is calculated with this formula: (((MissionScore + SurvivalBonus + (EnemiesDestroyed * 10)) + TimeBonus + DamageDealt) - DamageTaken) * BestCombo
+      TLDR: Big combo + fast mission + lods of kills = Big score. (The in-mission counter goes up to 9,999,999 btw.)
+      
+  Increased speed for all player shots. Should be easier to hit your shots with torpedoes.
+  Added sound for getting hurt at low/no armour.
+  Your mum is no longer gay.
+  Added PINGAS sound effect because why the [REDACTED] not?  
+  Changed mission end screen to show score.
+  (Hopefully) Added ability to go straight from end screen to hangar without restarting the game.
+  Changed mugshot to be more detailed.
+  Changed space drag indicator to more clearly show if it's on or not.
+  
