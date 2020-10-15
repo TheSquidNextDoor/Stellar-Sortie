@@ -241,4 +241,4 @@ Section 4: CHANGELOG! (The place where I list the changes I made to the game.)
   (Hopefully) Added ability to go straight from end screen to hangar without restarting the game.
   Changed mugshot to be more detailed.
   Changed space drag indicator to more clearly show if it's on or not.
-  
+  Increased enemy spawns to accomidate new combo system.
