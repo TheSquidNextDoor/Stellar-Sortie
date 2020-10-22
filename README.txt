@@ -252,3 +252,4 @@ Section 4: CHANGELOG! (The place where I list the changes I made to the game.)
   Reduced background clutter for performance reasons.
   Increased Kamakazi drone charge range so they actually hit the player when charging.
   Added stations to Sol 5 & 6's orbits.
+  You can now overheat outside of Sol 1's orbit. (But you have to be doing a LOT to do so.)
