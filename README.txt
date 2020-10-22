@@ -243,3 +243,12 @@ Section 4: CHANGELOG! (The place where I list the changes I made to the game.)
   Changed space drag indicator to more clearly show if it's on or not.
   Increased enemy spawns to accomidate new combo system.
   Fixed armour pickups reducing your armour.
+  Added mission progress counter to HUD.
+  Changed low HP alarm to go off of your armour.
+  Implemented score screen going to ship selection.
+  Changed where screen cracks can spawn and what sizes they can spawn at.
+  Changed player's mugshot to fit the new HUD and display more character.
+  Added comfortable chair to cockpit.
+  Reduced background clutter for performance reasons.
+  Increased Kamakazi drone charge range so they actually hit the player when charging.
+  Added stations to Sol 5 & 6's orbits.
