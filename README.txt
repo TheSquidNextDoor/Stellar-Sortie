@@ -254,3 +254,4 @@ Section 4: CHANGELOG! (The place where I list the changes I made to the game.)
   Added stations to Sol 5 & 6's orbits.
   You can now overheat outside of Sol 1's orbit. (But you have to be doing a LOT to do so.)
   Overheating now damages your armour before your internal structure and lowers your max shielding.
+  Added absurdly transpharent trail to player's shots to help prevent shots going through enemies without interacting.
