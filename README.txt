@@ -19,10 +19,6 @@ Section 1: Introduction
   STELLAR SORTIE! (But like imagine it in large ASCII text.)
   (Formerly known as Space Geam.)
 
-  Also, there's a discord server for the game.
-  https://discord.gg/fKgMkDq
-  Feel free to join!
-
 Section 2: Controls
 
   Subsection 1: Keboard + Mouse Ctrl. Scheme
@@ -38,7 +34,7 @@ Section 2: Controls
    Subsection 2: Keyboard Ctrl. Scheme
    
    The Keyboard Only control (ctrl.) scheme controls almost exactly the same as Keyboard + Mouse with 1 major difference: You 
-   can't straife (move sideways.).
+   can't strafe (move sideways.).
    
    Subsection 3: Mouse/touchscreen Ctrl. Scheme
    
@@ -54,7 +50,7 @@ Section 3: Squid's Sub-par Survival Guide!
     1. Know your enemy! Enemies that shoot you will orbit you when they go to attack.
     2. Learn to lead your shots! (Aim where the target is going to be, not where they are. There are no hitscan weapons here.)
     3. Observe your surroundings! A non-observant pilot is useless in the heat of battle.
-    4. If you encounter the Marauder MK II or the Juggernaut, avoid them at all costs if you aren't good enough to destroy them. 
+    4. If you encounter the Marauder MK II or the Juggernaut, avoid them at all costs if you aren't good enough to defeat them. 
     5. Learn to orbit your target when attacking them! You can turn while moving sideways.
     
     Now go out there and junk some pirates!
@@ -69,7 +65,7 @@ Section 3: Squid's Sub-par Survival Guide!
          and survive.
       5. Don't touch the damaged wires.
       6. Everything that shoots in this game shoots a projectile. There's no hitscan weaponry. Lead your shots.
-      7. Bigger isn't always better! No ship shouldn't be overlooked because of its size!
+      7. Bigger isn't always better! No ship shouldn't be overlooked because of its size! (Exept the prototype fighter, it's awful.)
       8. The ships are ordered in terms of size.
 
 Section 4: CHANGELOG! (The place where I list the changes I made to the game.)
