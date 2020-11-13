@@ -251,3 +251,8 @@ Section 4: CHANGELOG! (The place where I list the changes I made to the game.)
   You can now overheat outside of Sol 1's orbit. (But you have to be doing a LOT to do so.)
   Overheating now damages your armour before your internal structure and lowers your max shielding.
   Added absurdly transpharent trail to player's shots to help prevent shots going through enemies without interacting.
+    
+  V1.81:
+  
+  Hopefully fixed enemy fighter shots not despawning when done.
+  Buffed Proto Fighter to be actually viable. (+ 5 damage, -5 armour.)
