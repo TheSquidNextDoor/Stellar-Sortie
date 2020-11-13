@@ -255,4 +255,4 @@ Section 4: CHANGELOG! (The place where I list the changes I made to the game.)
   V1.81:
   
   Hopefully fixed enemy fighter shots not despawning when done.
-  Buffed Proto Fighter to be actually viable. (+ 5 damage, -5 armour.)
+  Changed Prototype Fighter to be a one-hit wonder instead of obscenely underpowered.. (+ 5 damage, -5 armour.)
