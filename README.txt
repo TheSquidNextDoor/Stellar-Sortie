@@ -257,3 +257,6 @@ Section 4: CHANGELOG! (The place where I list the changes I made to the game.)
   Hopefully fixed enemy fighter shots not despawning when done.
   Changed Prototype Fighter to be a one-hit wonder instead of obscenely underpowered.. (+ 5 damage, -5 armour.)
   Fixed large enemy melee ship not moving.
+  Added tutorial graphics that have the controls.
+  Added target dummies to tutorial planet.
+  Shooty enemies now properly damage rift siphon and escort objectives.
